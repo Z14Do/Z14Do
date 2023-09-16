@@ -4,7 +4,8 @@
 
 **`Data Science (Developer/Web Scraper/Analyst)`**
 
-I am a Software Engineer with a passion for Data Science and Python development, excited to learn new things and gain more experience, always looking forward to the future to develop myself.   
+I am a Software Engineer with a passion for Data Science, ML and DL. <br>
+excited to learn new things and gain more experience, always looking forward to the future to develop myself.   
 
 ---
 
